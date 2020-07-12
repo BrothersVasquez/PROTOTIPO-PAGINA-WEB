@@ -2,5 +2,5 @@
 Prototipo 586812
 <html>
 	<head>
-		<title>TITULOOO O MISION, VISION.. MAS DE ALGO</itle>
+		<title> TITULOOO O MISION, VISION.. MAS DE ALGO </title>
 	</head >
